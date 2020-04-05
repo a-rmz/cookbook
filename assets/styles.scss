@@ -8,13 +8,22 @@ body {
     color: var(--gray);
   }
 
-  max-width: 820px;
-  margin: 0 auto;
+  margin: 1em;
 
   .content {
     img {
-      max-width: 45%;
+      max-width: 90%;
       margin: 1em 0.5em;
+    }
+  }
+
+  @media (min-width: 768px) {
+    margin: 0 auto;
+    max-width: 820px;
+    .content {
+      img {
+        max-width: 45%;
+      }
     }
   }
 }
