@@ -3,7 +3,7 @@ permalink: /chocolate-chip-cookies
 ---
 [<- Back](/)
 
-# Chocolate chip cookies! 🍪
+# Alex's ✨ almighty ✨ chocolate chip cookies! 🍪
 
 ## Ingredients 📝
 
@@ -16,7 +16,7 @@ permalink: /chocolate-chip-cookies
 * 1 tsp baking soda
 * 1/2 tsp baking powder
 * 1/2 tsp salt
-* 250g chocolate chips
+* 300g chocolate chips
 
 ## Preparation 👨🏽‍🍳
 
@@ -27,13 +27,14 @@ permalink: /chocolate-chip-cookies
 ### Actual preparation:
 1. Put the butter and sugars in a bowl and beat until it's creamy
 2. Add the vanilla and the eggs, beat until it's a homogeneous blob
-3. Stiff the powders (flour, baking soda, baking powder, and salt) over the mixture and keep beatin'
+3. Sift the powders (flour, baking soda, baking powder, and salt) over the mixture and keep beatin'
 4. Add the chocolate chips and mix until they're evenly spread
 5. Let the dough chill for about half an hour in the fridge, you can chill too. Or clean the mess you're making
 6. On a baking tray with a baking sheet, put small balls of dough, some 5cm away from each other.
 7. Bake for 10-15 minutes until the edges start turning light brown
 8. Remove the cookies from the tray and let them cool down, for example, in a plate.
 9. Repeat until you're out of dough
+10. Okay, no more excuses. Go clean that mess.
 
 ## Pictures! 📸
 ![chocolate chip cookies!](/assets/images/chocolate-chip-cookies-1.jpg)
