@@ -1,4 +1,5 @@
 ---
+emoji: 🍪
 permalink: /chocolate-chip-cookies
 ---
 [<- Back](/)
